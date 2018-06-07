@@ -1,3 +1,4 @@
 # RRTT-Modules
 
-Proyecto de 3º de Ingenieria Multimedia para la asignatura de Fundamentos de los Videojuegos
+Proyecto de la asignatura Fundamentos de los Videojuegos, 3º Ingenieria Multimedia 2016-2017
+
